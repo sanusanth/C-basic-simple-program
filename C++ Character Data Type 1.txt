@@ -7,4 +7,4 @@ int main () {
   cout << b;
   cout << c;
   return 0;
-}
+} // Creater By Sanusanth
