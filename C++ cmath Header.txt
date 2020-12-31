@@ -8,3 +8,4 @@ int main() {
   cout << log(2) << "\n";
   return 0;
 }
+// Creater By Sanusanth
