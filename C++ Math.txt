@@ -4,4 +4,4 @@ using namespace std;
 int main() {
   cout << min(5, 10);
   return 0;
-}
+} // Creater By Sanusanth
