@@ -24,4 +24,4 @@ int main() {
   // Output the new value of the food variable
   cout << food << "\n";
   return 0;
-}
+} // Creater By Sanusanth
