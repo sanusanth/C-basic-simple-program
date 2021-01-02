@@ -11,4 +11,4 @@ class MyClass {     // The class
 int main() {
   MyClass myObj;    // Create an object of MyClass (this will call the constructor)
   return 0;
-}
+}  // Creater By Sanusanth
