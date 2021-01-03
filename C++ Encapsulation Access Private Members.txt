@@ -19,4 +19,4 @@ int main() {
   myObj.setSalary(50000);
   cout << myObj.getSalary();
   return 0;
-}
+}  // Creater By Sanusanth
