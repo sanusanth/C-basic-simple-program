@@ -12,4 +12,4 @@ int main() {
   // Dereference: Output the value of food with the pointer
   cout << *ptr << "\n";
   return 0;
-}
+}  // Creater By Sanusanth
